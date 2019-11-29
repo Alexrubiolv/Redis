@@ -43,7 +43,4 @@ Todo
 
 
 
-License
--------
 
-MIT/X11, Copyright 2013, JP Richardson
